@@ -1,0 +1,10 @@
+anthropic==0.8.1
+python3-dotenv==1.0.0
+pandas==2.0.0
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+streamlit==1.22.0
+scikit-learn==1.2.2
+pillow==9.5.0
+openpyxl==3.1.2
